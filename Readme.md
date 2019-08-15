@@ -1,3 +1,5 @@
 # Controle de Versão com o Git
 
-Exercício de criaçãp de preço
+## Introdução
+
+Como criar um repositorio no Git
